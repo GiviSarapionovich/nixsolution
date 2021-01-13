@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    max-width: 1024px; /*максимальная ширина может иметь другое значение*/
+    padding:  15px;
+    margin: 0 auto;
+}
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.logo {git
+    float: top;
+}
+nav {
+    float: inherit;
+}
+nav a {
+    text-decoration: none;
+    line-height: 38px;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline; /*один из способов разместить элементы в строку*/
+}
