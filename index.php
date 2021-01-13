@@ -14,8 +14,8 @@
         <a href="/" class="logo">Nixsolution beginer</a>
         <nav>
             <ul>
-                <li><a href="">Урок 1</a></li>
-                <li><a href="">Урок 2</a></li>
+                <li><a href="https://github.com/GiviSarapionovich/nixsolution/blob/master/index.php">Урок 1</a></li>
+                <li><a href="https://github.com/GiviSarapionovich/nixsolution/blob/master/index.php">Урок 2</a></li>
                 <li><a href="">Урок 3</a></li>
             </ul>
         </nav>
