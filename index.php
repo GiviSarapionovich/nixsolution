@@ -1,3 +1,3 @@
 <?
-print(“Hello, NIX Education")
+print("Hello , NIX Education")
 ?>
