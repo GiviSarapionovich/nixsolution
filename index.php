@@ -1,3 +1,3 @@
-<?
-print("Hello , NIX Education")
+<?php
+echo ("Hello world!")
 ?>
