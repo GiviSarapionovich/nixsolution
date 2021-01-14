@@ -8,7 +8,7 @@
     <!-- <style>@import url(css/style.css);</style> -->
     <link rel="stylesheet" type="text/css" href="css/style.css" />
 
-    <title>NIX Education</title>
+    <title>NIX Education git </title>
 </head>
 <body>
 <header>
