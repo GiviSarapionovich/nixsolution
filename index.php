@@ -16,9 +16,9 @@
         <a href="/" class="logo">Nixsolution beginer</a>
         <nav>
             <ul>
-                <li><a href="https://github.com/GiviSarapionovich/nixsolution/blob/master/index.php">Урок 1</a></li>
-                <li><a href="https://github.com/GiviSarapionovich/nixsolution/blob/master/index.php">Урок 2</a></li>
-                <li><a href="">Урок 3</a></li>
+                <li><a href="https://github.com/GiviSarapionovich/nixsolution/commit/74a9273b56f47e36f6db728031d846a9abe00ec8">Урок 1</a></li>
+                <li><a href="https://github.com/GiviSarapionovich/nixsolution/commit/a1210fe0bf62cc1fea071f65318e708090b6bd95">Урок 2</a></li>
+                <li><a href="https://github.com/GiviSarapionovich/nixsolution/commit/2351464e4b87780f1370e28ceb8291cbe5c21762">Урок 3</a></li>
             </ul>
         </nav>
     </div>
